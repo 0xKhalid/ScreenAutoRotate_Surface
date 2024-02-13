@@ -1,4 +1,4 @@
-# ScreenAutoRotate_Surface
+# Screen AutoRotate For Surface Devices
 A script that you can run at startup that allows automatic screen rotation on Microsoft Surface devices running the KDE Plasma desktop environment. The Surface kernel must be installed on the device to enable the use of the accelerometer and gyroscope for screen rotation. More information on insalling the Surface kernel can be found [here](https://github.com/linux-surface/linux-surface)
 
 This script has been tested on a Microsoft Surface Pro 7 running KDE Plasma 5.24.4 desktop environment on Ubuntu 22.04.
